@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Genesis",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/genesis",
+            "args": [
+                "generate"
+            ],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "MIMode": "gdb"
+        }
+    ]
+}
