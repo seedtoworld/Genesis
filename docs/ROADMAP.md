@@ -4,11 +4,11 @@
 
 ### Phase 0 – Foundation & Community Kickoff *(Month 1)*
 
-- [ ] Set up public GitHub repository with MIT license.
-- [ ] Create basic README, `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`.
-- [ ] Establish Discord server for early users/contributors.
-- [ ] Draft initial design docs (already done – refine based on feedback).
-- [ ] Choose tech stack and document decision.
+- [x] Set up public GitHub repository with MIT license.
+- [x] Create basic README, `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`.
+- [x] Establish Discord server for early users/contributors.
+- [x] Draft initial design docs (already done – refine based on feedback).
+- [x] Choose tech stack and document decision.
 
 **Deliverable:** Project is public with a welcoming space for community.
 
@@ -57,6 +57,7 @@
 
 ### Parallel Community Building *(Ongoing)*
 
+- [ ] Complete Discord Setup!
 - [ ] Post devlogs on Reddit (r/godot, r/proceduralgeneration), Twitter, and Discord.
 - [ ] After Phase 2 post a visual proof on r/godot and r/proceduralgeneration.
 - [ ] Create a simple landing page with screenshots and signup form.
